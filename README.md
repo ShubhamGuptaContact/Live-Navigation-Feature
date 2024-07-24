@@ -39,4 +39,4 @@ Start the server with node app.js.
 Access the application through a web browser at http://localhost:3000 (or your configured port).
 
 <b><u>--Output--</u></b>
-<img src="">
+<img src="https://github.com/ShubhamGuptaContact/Live-Navigation-Feature/blob/main/public/assets/img.jpg">
